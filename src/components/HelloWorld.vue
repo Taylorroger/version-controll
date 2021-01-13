@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    这是1.0版本
+    这是分支dev2
   </div>
 </template>
 
