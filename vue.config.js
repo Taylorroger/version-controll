@@ -7,5 +7,5 @@
  * @FilePath: /git-test/vue.config.js
  */
 module.exports = {
-    publicPath: './'
-}
+	publicPath: './'
+};
