@@ -1,6 +1,14 @@
 .DS_Store
 node_modules
-/dist
+# /dist
+/src/
+/public/
+
+.babel.config.js
+package.json
+README.md
+vue.config.js
+yarn.lock
 
 
 # local env files
